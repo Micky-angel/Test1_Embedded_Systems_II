@@ -195,6 +195,7 @@ datoraspi = "0\n"
 flag = 0
 try:
     print("Iniciando comunicación UART...")
+    print("Hola")
     while True:
         # ---------------------------------------------------UART VARIABLES -------------------------------
         # sirve para enviar datoraspi
