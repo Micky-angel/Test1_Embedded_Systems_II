@@ -1,4 +1,4 @@
-# ex2_2
+# ex2_2 smart
 import serial
 import RPi.GPIO as GPIO
 import time
